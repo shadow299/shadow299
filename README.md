@@ -1,5 +1,9 @@
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="coding gif"/>
+  <img 
+    src="https://github.com/shadowfightbeast/shadowfightbeast/blob/master/assets/ThisPinIsAllAboutCoding.gif?raw=true"
+    width="100%"
+    alt="coding gif"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Chandra</h1>
