@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/shadowfightbeast/shadowfightbeast/blob/master/assets/ThisPinIsAllAboutCoding.gif?raw=true"
+    src="https://github.com/shadow299/shadow299/blob/main/assets/ThisPinIsAllAboutCoding.gif"
     width="100%"
     alt="coding gif"
   />
